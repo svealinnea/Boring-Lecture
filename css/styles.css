@@ -21,3 +21,12 @@ h2 {
 .goodbye {
   float: bottom;
 }
+.my-class {
+  border: 2px turquoise;
+  padding: 10px;
+  background-color:#FFFDD0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  box-shadow: teal;
+}
