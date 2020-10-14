@@ -19,7 +19,7 @@ h2 {
   font-style: oblique;
 }
 .goodbye {
-  float: bottom;
+  color:turquoise;
 }
 .my-class {
   border: 2px turquoise;
@@ -29,4 +29,8 @@ h2 {
   margin-bottom: 20px;
   box-sizing: border-box;
   box-shadow: teal;
+}
+.Centered-Image {
+  width: 50%;
+  height: auto;
 }
