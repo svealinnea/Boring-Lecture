@@ -5,3 +5,16 @@
 img {
   float: center;
 }
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: salmon;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+h2 {
+  color:#FF69B4;
+  font-style: oblique;
+}
