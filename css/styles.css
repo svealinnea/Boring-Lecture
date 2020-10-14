@@ -1,4 +1,7 @@
-p .intro {
-  columns: #025146;
+.intro {
+  color: #97d8cf;
   font-style: italic;
+}
+h2.intro {
+  color: red;
 }
